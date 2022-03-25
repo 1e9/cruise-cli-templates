@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@cruise-cli-templates/vue": "workspace:^0.0.0",
     "dayjs": "^1.11.0"
