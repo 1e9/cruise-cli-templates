@@ -1,0 +1,24 @@
+{
+  "name": "cruise-cli-templates",
+  "version": "1.0.0",
+  "description": "一些组件/页面模版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1e9/cruise-cli-templates.git"
+  },
+  "keywords": [
+    "tepmlate",
+    "component",
+    "spa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1e9/cruise-cli-templates/issues"
+  },
+  "homepage": "https://github.com/1e9/cruise-cli-templates#readme"
+}
